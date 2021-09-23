@@ -7,3 +7,4 @@ mongodb_data
 node_modules
 .env
 .idea
+.eslintcache
